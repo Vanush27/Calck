@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calkulyator</string>
+    <string name="hamar1">1</string>
+    <string name="hamar2">2</string>
+    <string name="hamar3">3</string>
+    <string name="hamar4">4</string>
+    <string name="hamar5">5</string>
+    <string name="hamar6">6</string>
+    <string name="hamar7">7</string>
+    <string name="hamar8">8</string>
+    <string name="hamar9">9</string>
+    <string name="hamar0">0</string>
+    <string name="hamarGumar">+</string>
+    <string name="hamarHanum">-</string>
+    <string name="hamarBazm">*</string>
+    <string name="hamarBaj">/</string>
+    <string name="Havasar">=</string>
+    <string name="Delete">C</string>
+    <string name="Ket">.</string>
+    <string name="Load">load</string>
+    <string name="backspase">- </string>
+    <string name="memory">M1</string>
+</resources>
